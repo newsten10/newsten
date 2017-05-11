@@ -69,7 +69,7 @@ function recent_post_content(){
     s += " </a>";
     s += "</div>";
     s += "<div style='float:left; text-align:right; margin-left:20px;'>";
-    s += ":";
+    s += "";
     s += "</div>";
     }
     s += "  <marquee style='float:left; margin-left:10px; width:90%' scrollAmount='"+scrolling_speed+"'>";
